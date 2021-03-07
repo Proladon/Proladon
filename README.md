@@ -1,11 +1,6 @@
-## Hi there I'm Proladon 🔰
-I'm a Industrial Designer / FrontEnd / Youtuber
-
-
-
-
   <p align="center">
-    Youtube stats badges for your Github profile README
+    <h1 align="center">Hi there I'm Proladon 🔰</h1>
+    <span> I'm a Industrial Designer / FrontEnd / Youtuber </span>
     <br />
     <br />
     <a href="https://www.youtube.com/channel/UCczXI0u-LKlX-oBwrkKtOdg">
@@ -14,10 +9,11 @@ I'm a Industrial Designer / FrontEnd / Youtuber
     <a href="https://www.youtube.com/channel/UCczXI0u-LKlX-oBwrkKtOdg">
      <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCczXI0u-LKlX-oBwrkKtOdg&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
     </a>
+    <br />
+    <br />
+    <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=Proladon&show_icons=true&theme=dracula"/>
   </p>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Proladon&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 <hr>
 
 #### Languages / Frameworks / Tools:  
