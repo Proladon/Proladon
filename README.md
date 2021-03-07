@@ -2,7 +2,8 @@
     <h1 align="center">Hi there I'm Proladon 🔰</h1>
     <span> I'm a Industrial Designer / FrontEnd / Youtuber </span>
     <br />
-    <br />
+  </p>
+  <p align="center">
     <a href="https://www.youtube.com/channel/UCczXI0u-LKlX-oBwrkKtOdg">
      <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCczXI0u-LKlX-oBwrkKtOdg&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>
     </a>
