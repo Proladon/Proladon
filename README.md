@@ -9,7 +9,7 @@
     </a>
     <br />
     <br />
-    <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=Proladon&show_icons=true&theme=dracula"/>
+    <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=Proladon&show_icons=true&theme=react"/>
   </p>
   
 <hr>
