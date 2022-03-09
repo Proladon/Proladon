@@ -26,8 +26,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Taipei
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          # plugin_isocalendar: yes
+          # plugin_isocalendar_duration: full-year
           plugin_wakatime: yes
           plugin_wakatime_days: 30
           plugin_wakatime_limit: 5
