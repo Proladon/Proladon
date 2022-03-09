@@ -56,3 +56,4 @@
 <a href="https://vuepress.vuejs.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> 
 </a>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
