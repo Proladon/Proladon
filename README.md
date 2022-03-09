@@ -9,7 +9,8 @@
     </a>
     <br />
     <br />
-    <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=Proladon&show_icons=true&theme=react"/>
+    <!-- <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=Proladon&show_icons=true&theme=react"/> -->
+    <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
   </p>
   
 
@@ -56,4 +57,4 @@
 <a href="https://vuepress.vuejs.org/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> 
 </a>
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
