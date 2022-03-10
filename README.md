@@ -13,14 +13,19 @@
     <br />
     <!-- <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=Proladon&show_icons=true&theme=react"/> -->
   </div>
-  <div style="display: flex; gap: 10px; align-items: center;">
-    <img src="https://i.imgur.com/eLWkZMx.gif" width="400">
+  
+  <!--  View Count  -->
+  <div align="center">
+    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Proladon?theme=moebooru"></a>
+  </div>
+  
+  <!--  Main Info  -->
+  <div style="display: flex; gap: 10px; align-items: center; justify-content: center">
+    <img align="center" src="https://i.imgur.com/eLWkZMx.gif" height="470">
     <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
   </div>
 
-  <p>
-    <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Proladon?theme=moebooru"></a>
-  </p>
+  
 
   <hr>
 
@@ -75,12 +80,3 @@
       src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg"
       alt="vuepress" width="40" height="40" />
   </a>
-
-  <style>
-.main-info-wrapper {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 10px;
-}
-
-  </style>
