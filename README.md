@@ -22,7 +22,7 @@
   <!--  Main Info  -->
   <div style="display: flex; gap: 10px; align-items: center; justify-content: center">
     <img align="center" src="https://i.imgur.com/eLWkZMx.gif" height="470">
-    <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+    <img  src="/github-metrics.svg" alt="Metrics" width="400">
   </div>
 
   
