@@ -19,11 +19,22 @@
     <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Proladon?theme=moebooru"></a>
   </div>
   
-  <!--  Main Info  -->
-  <div style="display: flex; gap: 10px; align-items: center; justify-content: center">
-    <img align="center" src="https://i.imgur.com/eLWkZMx.gif" height="470">
-    <img  src="/github-metrics.svg" alt="Metrics" width="400">
-  </div>
+  <table align="center">
+    <tbody>
+      <tr>
+        <td>
+          <img align="center" src="https://i.imgur.com/eLWkZMx.gif" height="470">
+        </td>
+        <td>
+          <!--  Main Info  -->
+          <img  src="/github-metrics.svg" alt="Metrics" width="400">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  
 
   
 
